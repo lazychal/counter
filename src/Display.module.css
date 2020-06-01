@@ -1,0 +1,26 @@
+.display {
+    background-color: #aeaeae;
+    border: 3px black solid;
+    width: 320px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+    font-weight: 700;
+    border-radius: 13px;
+    color: black;
+}
+.redDisplay {
+    background-color: #aeaeae;
+    border: 3px black solid;
+    width: 320px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+    font-weight: 700;
+    border-radius: 13px;
+    color: red;
+}
